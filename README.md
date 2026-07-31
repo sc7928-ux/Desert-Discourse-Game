@@ -1,2 +1,5 @@
 # Desert-Discourse-Game
 Interactive desert road-trip board game for language therapy — students sort an explanation into thesis, supporting details, and off-topic facts, then repair weak connections with bridge words. Live two-player rooms, teacher prep mode, no server required.
+The Explanation Roadmap is a browser-based game board for building and repairing spoken explanations. A student reads a short explanation, drags the main point to the Destination, picks the route type (Cause → Effect or Problem → Solution), sorts each supporting detail into a Road Stop, Needs a Bridge, or the Off-Ramp, then repairs the bridged detail by choosing the right relationship and connection word. A Listener Check unlocks only when the whole route is correct.
+
+Nine built-in trips span introductory to advanced difficulty. Teachers can write their own in Prep mode — explanation paragraph, answer options, detail cards, connection words, sentence frame, and model summary — all saved in the browser. Prep mode also opens a live room: students join by link and the board syncs in real time, with a Freeze control to stop input mid-round. Everything runs as a single static HTML file.
